@@ -20,3 +20,8 @@ Let's be social 🤝 with some distancing 😉
 
 [`Twitter@vikaskum09`](https://twitter.com/vikaskum09) | 
 [`LinkedIn@vikaskumar09`](https://www.linkedin.com/in/vikaskumar09/)
+
+### Github Stats:
+```md
+![Vikas's github stats](https://github-readme-stats.vercel.app/api?username=worstkiller&show_icons=true)
+```
