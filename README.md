@@ -13,6 +13,9 @@ App | Technology
 [Flurry TODO](https://github.com/worstkiller/flurry_todo) | UIKit IOS
 ---
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=worstkiller&show_icons=true)
+
+### Social
 Blog:
 https://medium.com/@droidvikas
 
@@ -20,8 +23,3 @@ Let's be social 🤝 with some distancing 😉
 
 [`Twitter@vikaskum09`](https://twitter.com/vikaskum09) | 
 [`LinkedIn@vikaskumar09`](https://www.linkedin.com/in/vikaskumar09/)
-
-### Github Stats:
-```md
-![Vikas's github stats](https://github-readme-stats.vercel.app/api?username=worstkiller&show_icons=true)
-```
