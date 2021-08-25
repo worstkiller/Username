@@ -9,7 +9,7 @@ I'm Vikas. I'm an Android Developer, a blogger and a design enthusiast. I like e
 <!-- Personal Stuffs -->
  <p align="left">
 <img src="https://komarev.com/ghpvc/?username=worstkiller&color=brightgreen" alt="watching_count" />
-<img src="https://img.shields.io/stackexchange/stackoverflow/r/4517450" />
+<img src="https://img.shields.io/stackexchange/stackoverflow/r/4517450?order=desc&sort=reputation&color=brightgreen" />
 <img src="https://img.shields.io/badge/Focus-Kotlin%20Multiplatform%20Mobile-brightgreen" />
 
 </p>
