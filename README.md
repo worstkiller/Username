@@ -1,8 +1,18 @@
-Vikas Kumar
-=====
+<!-- welcome message -->
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Glad to see you here!</h2>
 
->The name itself implies development in Hindi language and i have been doing this to `mobile applications` from almost 6 years now 😄. I love being a developer and contributing to community in possible ways. I have worked on many `frameworks`, IDE for application development and `Eclipse with ADT` is one of them 😬. I'm a self taught Android developer 😉 and try to learn and improve everyday. I like making jokes which unfortunately only i understand 😅 apart from that I'm a district level `Cricket` player, and a street level `Badminton` player, `Covid-19` made me a survivor also 😆.  
----
+<!-- About me -->
+<p>
+I'm Vikas. I'm an Android Developer, a blogger and a design enthusiast. I like exploring new things related to mobile development. Currently exploring the Kotlin Multiplatform, SwiftUI, Jetpack Compose. Whenever i work on something new related to mobile technologies i upload to my github to share with all other developers. 
+</p>
+
+<!-- Personal Stuffs -->
+ <p align="left">
+<img src="https://komarev.com/ghpvc/?username=worstkiller&color=brightgreen" alt="watching_count" />
+<img src="https://img.shields.io/stackexchange/stackoverflow/r/4517450" />
+<img src="https://img.shields.io/badge/Focus-Kotlin%20Multiplatform%20Mobile-brightgreen" />
+
+</p>
 
 ### Side hustles:
 App | Technology
@@ -13,13 +23,16 @@ App | Technology
 [Flurry TODO](https://github.com/worstkiller/flurry_todo) | UIKit IOS
 ---
 
+![Most Languages used](https://github-readme-stats.vercel.app/api/top-langs?username=worstkiller&show_icons=true&locale=en&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=worstkiller&show_icons=true)
+
+---
 
 ### Social
 Blog:
 https://medium.com/@droidvikas
 
-Let's be social 🤝 with some distancing 😉
+Let's connect 🤝 
 
 [`Twitter@vikaskum09`](https://twitter.com/vikaskum09) | 
 [`LinkedIn@vikaskumar09`](https://www.linkedin.com/in/vikaskumar09/)
