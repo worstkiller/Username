@@ -1,38 +1,54 @@
-<!-- welcome message -->
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Glad to see you here!</h2>
+<!-- Welcome Message -->
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my GitHub!</h2>
 
-<!-- About me -->
+<!-- About Me -->
 <p>
-I'm Vikas. I'm an Android Developer, a blogger and a design enthusiast. I like exploring new things related to mobile development. Currently exploring the Kotlin Multiplatform, SwiftUI, Jetpack Compose. Whenever i work on something new related to mobile technologies i upload to my github to share with all other developers. 
+I'm Vikas, an experienced Android Developer with a passion for crafting robust and user-friendly applications. I'm also a blogger and a design enthusiast who enjoys exploring new technologies in mobile development. Currently, I'm diving deep into Kotlin Multiplatform Mobile (KMM), Jetpack Compose, and SwiftUI. My GitHub is a collection of projects and experiments aimed at sharing knowledge with the developer community.  
 </p>
 
-<!-- Personal Stuffs -->
- <p align="left">
-<img src="https://komarev.com/ghpvc/?username=worstkiller&color=brightgreen" alt="watching_count" />
-<img src="https://img.shields.io/stackexchange/stackoverflow/r/4517450?order=desc&sort=reputation&color=brightgreen" />
-<img src="https://img.shields.io/badge/Focus-Kotlin%20Multiplatform%20Mobile-brightgreen" />
-
+<!-- Highlights -->
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=worstkiller&color=brightgreen" alt="Profile Views" />
+<img src="https://img.shields.io/stackexchange/stackoverflow/r/4517450?order=desc&sort=reputation&color=brightgreen" alt="StackOverflow Reputation" />
+<img src="https://img.shields.io/badge/Focus-Kotlin%20Multiplatform%20Mobile-brightgreen" alt="Focus" />
 </p>
-
-### Side hustles:
-App | Technology
---- | --- |
-[Vikas.dev](https://vikas.dev/) | React
-[AppFilter](https://worstkiller.github.io/ReactAppFilter/) | React
-[Grocer IOS](https://github.com/worstkiller/grocer-ios) | SwiftUI IOS
-[Flurry TODO](https://github.com/worstkiller/flurry_todo) | UIKit IOS
----
-
-![Most Languages used](https://github-readme-stats.vercel.app/api/top-langs?username=worstkiller&show_icons=true&locale=en&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=worstkiller&show_icons=true)
 
 ---
 
-### Social
-Blog:
-https://medium.com/@droidvikas
+### 🚀 Projects & Side Hustles
 
-Let's connect 🤝 
+| Project Name                  | Technology         | Description |
+|-------------------------------|--------------------|-------------|
+| [Jetpack Compose Animations](https://github.com/worstkiller/jetpack_compose_animation) | Kotlin, Compose             | Compose Animation Showcase or Samples. |
+| [Paging 3 ](https://github.com/worstkiller/jetpack_paging3) | Kotlin             | Paging 3 implementation Sample. |
+| [Vikas.dev](https://vikas.dev/) | React             | Personal portfolio showcasing my work and journey. |
+| [AppFilter](https://worstkiller.github.io/ReactAppFilter/) | React | A lightweight filtering app to explore and manage content. |
+| [Grocer iOS](https://github.com/worstkiller/grocer-ios) | SwiftUI (iOS) | A grocery app with intuitive design and smooth user experience. |
+| [Flurry TODO](https://github.com/worstkiller/flurry_todo) | UIKit (iOS) | A simple, elegant to-do app. |
 
-[`Twitter@vikaskum09`](https://twitter.com/vikaskum09) | 
-[`LinkedIn@vikaskumar09`](https://www.linkedin.com/in/vikaskumar09/)
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=worstkiller&show_icons=true&locale=en&layout=compact" alt="Most Languages Used" />
+<img src="https://github-readme-stats.vercel.app/api?username=worstkiller&show_icons=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+📖 Blog: [@droidvikas on Medium](https://medium.com/@droidvikas) </br>
+💻 Website: [Vikas.dev](https://vikas.dev/)
+
+🤝 Let's Connect:  
+[Twitter](https://twitter.com/vikaskum09) | [LinkedIn](https://www.linkedin.com/in/vikaskumar09/) 
+
+---
+
+### 🔧 Technologies & Tools
+- **Languages**: Kotlin, Swift, Java, JavaScript  
+- **Frameworks & Tools**: Jetpack Compose, SwiftUI, KMM, React  
+- **Focus Areas**: Mobile Development, UI/UX Design, Cross-Platform Apps
+
