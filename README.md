@@ -19,9 +19,9 @@ I'm Vikas, an experienced Android Developer with a passion for crafting robust a
 
 | Project Name                  | Technology         | Description |
 |-------------------------------|--------------------|-------------|
-| [Jetpack Compose Animations](https://github.com/worstkiller/jetpack_compose_animation) | Kotlin, Compose             | Compose Animation Showcase or Samples. |
-| [Paging 3 ](https://github.com/worstkiller/jetpack_paging3) | Kotlin             | Paging 3 implementation Sample. |
-| [Vikas.dev](https://vikas.dev/) | React             | Personal portfolio showcasing my work and journey. |
+| [Jetpack Compose Animations](https://github.com/worstkiller/jetpack_compose_animation) | Kotlin, Compose | Compose Animation Showcase or Samples. |
+| [Paging 3](https://github.com/worstkiller/jetpack_paging3) | Kotlin | Paging 3 implementation Sample. |
+| [Vikas.dev](https://vikas.dev/) | React | Personal portfolio showcasing my work and journey. |
 | [AppFilter](https://worstkiller.github.io/ReactAppFilter/) | React | A lightweight filtering app to explore and manage content. |
 | [Grocer iOS](https://github.com/worstkiller/grocer-ios) | SwiftUI (iOS) | A grocery app with intuitive design and smooth user experience. |
 | [Flurry TODO](https://github.com/worstkiller/flurry_todo) | UIKit (iOS) | A simple, elegant to-do app. |
@@ -31,8 +31,9 @@ I'm Vikas, an experienced Android Developer with a passion for crafting robust a
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=worstkiller&show_icons=true&locale=en&layout=compact" alt="Most Languages Used" />
-<img src="https://github-readme-stats.vercel.app/api?username=worstkiller&show_icons=true" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=worstkiller&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=worstkiller&show_icons=true&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=worstkiller&hide_border=true&theme=github-light" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -51,4 +52,3 @@ I'm Vikas, an experienced Android Developer with a passion for crafting robust a
 - **Languages**: Kotlin, Swift, Java, JavaScript  
 - **Frameworks & Tools**: Jetpack Compose, SwiftUI, KMM, React  
 - **Focus Areas**: Mobile Development, UI/UX Design, Cross-Platform Apps
-
