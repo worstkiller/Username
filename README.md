@@ -31,7 +31,6 @@ I'm Vikas, an experienced Android Developer with a passion for crafting robust a
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=worstkiller&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api?username=worstkiller&show_icons=true&hide_border=true" alt="GitHub Stats" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=worstkiller&hide_border=true&theme=github-light" alt="GitHub Activity Graph" />
 </p>
@@ -40,7 +39,7 @@ I'm Vikas, an experienced Android Developer with a passion for crafting robust a
 
 ### 🌐 Connect with Me
 
-📖 Blog: [@droidvikas on Medium](https://medium.com/@droidvikas) </br>
+📖 Blog: [@droidvikas on Medium](https://medium.com/@droidvikas) </br></br>
 💻 Website: [Vikas.dev](https://vikas.dev/)
 
 🤝 Let's Connect:  
